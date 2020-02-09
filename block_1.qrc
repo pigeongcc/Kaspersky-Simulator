@@ -1,0 +1,88 @@
+<RCC>
+  <qresource prefix="1">
+    <file>4.jpg</file>
+    <file>5.jpg</file>
+    <file>6.jpg</file>
+    <file>7.jpg</file>
+  </qresource>
+  <qresource prefix="extra">
+    <file>20NEW.jpg</file>
+    <file>26NEW.jpg</file>
+    <file>21yesNEW.jpg</file>
+    <file>22yesNEW.jpg</file>
+    <file>23yesNEW.jpg</file>
+    <file>24yesNEW.jpg</file>
+  </qresource>
+  <qresource prefix="6">
+    <file>34.jpg</file>
+    <file>35.jpg</file>
+    <file>36.jpg</file>
+    <file>37.jpg</file>
+    <file>39.jpg</file>
+    <file>40.jpg</file>
+    <file>41.jpg</file>
+    <file>42.1.jpg</file>
+    <file>42.2.jpg</file>
+    <file>42.3.jpg</file>
+    <file>42.5.jpg</file>
+    <file>42.6.jpg</file>
+  </qresource>
+  <qresource prefix="7">
+    <file>43.jpg</file>
+    <file>44.jpg</file>
+    <file>45.jpg</file>
+    <file>46.jpg</file>
+    <file>47.jpg</file>
+  </qresource>
+  <qresource prefix="5">
+    <file>30.1.jpg</file>
+    <file>30.2.jpg</file>
+    <file>30_контроль_устройств.jpg</file>
+    <file>31.jpg</file>
+    <file>32.jpg</file>
+    <file>33.1.jpg</file>
+    <file>33.2.jpg</file>
+    <file>33.3.jpg</file>
+    <file>33.4.jpg</file>
+    <file>33.5.jpg</file>
+    <file>33.jpg</file>
+  </qresource>
+  <qresource prefix="4">
+    <file>19.0.jpg</file>
+    <file>20.jpg</file>
+    <file>21.jpg</file>
+    <file>22.jpg</file>
+    <file>23.jpg</file>
+    <file>24.jpg</file>
+    <file>25 созданная политика.jpg</file>
+    <file>27.jpg</file>
+    <file>26_new начало настройки политики.jpg</file>
+    <file>26_new_начало_настройки_политики.jpg</file>
+    <file>28.jpg</file>
+    <file>29.jpg</file>
+    <file>30 контроль устройств.jpg</file>
+  </qresource>
+  <qresource prefix="3">
+    <file>14.7.png</file>
+    <file>14.jpg</file>
+    <file>15.8.png</file>
+    <file>15.jpg</file>
+    <file>16.9.png</file>
+    <file>16.jpg</file>
+    <file>17.10.png</file>
+    <file>17.11.png</file>
+    <file>17.12.png</file>
+    <file>17.jpg</file>
+  </qresource>
+  <qresource prefix="2">
+    <file>9.1.png</file>
+    <file>10.2.png</file>
+    <file>10.jpg</file>
+    <file>11.3.png</file>
+    <file>11.jpg</file>
+    <file>12.4.png</file>
+    <file>12.jpg</file>
+    <file>13.5.png</file>
+    <file>13.jpg</file>
+  </qresource>
+</RCC>

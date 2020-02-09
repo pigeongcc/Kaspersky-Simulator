@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="screens_prefix">
+    <file>screens/00.jpg</file>
+    <file>screens/1.jpg</file>
+    <file>screens/2.jpg</file>
+    <file>screens/3.jpg</file>
+    <file>screens/4.jpg</file>
+    <file>screens/5.jpg</file>
+    <file>screens/6.jpg</file>
+    <file>screens/7.jpg</file>
+    <file>screens/8.jpg</file>
+    <file>screens/9.jpg</file>
+    <file>screens/10.jpg</file>
+    <file>screens/11.jpg</file>
+    <file>screens/12.jpg</file>
+    <file>screens/13.jpg</file>
+    <file>screens/14.jpg</file>
+    <file>screens/15.jpg</file>
+    <file>screens/16.jpg</file>
+    <file>screens/17.jpg</file>
+    <file>screens/18 если неправильно создали подгруппу, удаляем.jpg</file>
+    <file>screens/18 как неправильно создали подгруппу.jpg</file>
+    <file>screens/19 начало создания политики.jpg</file>
+    <file>screens/20.jpg</file>
+    <file>screens/21.jpg</file>
+    <file>screens/22.jpg</file>
+    <file>screens/23.jpg</file>
+    <file>screens/24.jpg</file>
+    <file>screens/25 созданная политика.jpg</file>
+    <file>screens/26 начало настройки политики.jpg</file>
+  </qresource>
+</RCC>
